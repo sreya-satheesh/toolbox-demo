@@ -87,7 +87,7 @@ Here is a complete list of the tools available in Toolbox:
 
 ## Live Demo
 
-https://toolbox-psi-eight.vercel.app/
+https://toolbox-private.vercel.app/
 
 ---
 

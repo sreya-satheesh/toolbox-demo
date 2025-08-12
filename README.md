@@ -1,4 +1,4 @@
-# Toolbox
+# Toolbox (Demo)
 
 Welcome to Toolbox — a handy web app full of useful tools to simplify your coding, designing, and everyday tasks! I created Toolbox to help you work faster and smarter with easy-to-use utilities that make everything from minifying code to resizing images a breeze. Dive in, explore, and enjoy making your workflow smoother and more fun!
 

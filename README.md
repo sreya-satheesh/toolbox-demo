@@ -1,5 +1,6 @@
 # Toolbox
-**Toolbox** is a comprehensive web application offering a wide variety of developer and designer utilities, all in one place. Whether you need to minify code, convert formats, manipulate images, or work with colors and dates, Toolbox has you covered with an intuitive and easy-to-use interface.
+
+Welcome to Toolbox — a handy web app full of useful tools to simplify your coding, designing, and everyday tasks! I created Toolbox to help you work faster and smarter with easy-to-use utilities that make everything from minifying code to resizing images a breeze. Dive in, explore, and enjoy making your workflow smoother and more fun!
 
 <img width="1917" height="910" alt="Screenshot 2025-08-12 151827" src="https://github.com/user-attachments/assets/f260a23e-48a4-4b7d-99d9-b17b53f0526a" />
 

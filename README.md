@@ -1,4 +1,4 @@
-<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/69aadf4e-8bca-4209-9cdb-0bd259a238f4" /># Toolbox
+# Toolbox
 **Toolbox** is a comprehensive web application offering a wide variety of developer and designer utilities, all in one place. Whether you need to minify code, convert formats, manipulate images, or work with colors and dates, Toolbox has you covered with an intuitive and easy-to-use interface.
 
 <img width="1917" height="910" alt="Screenshot 2025-08-12 151827" src="https://github.com/user-attachments/assets/f260a23e-48a4-4b7d-99d9-b17b53f0526a" />
